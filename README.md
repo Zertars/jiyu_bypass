@@ -1,5 +1,5 @@
 # jiyu_bypass
->提供`jiyu（jiyu网络控制） amp学生机房管理软件`的绕过方式
+>提供`jiyu（jiyu网络控制）学生机房管理软件`的绕过方式
 
 
 ## 软件原地址看这里：
@@ -9,14 +9,14 @@
 
 [Jiyu Tainer](https://github.com/imengyu/JiYuTrainer)
 ## 教程正题
->请不要试图点击`载学生机房管理软件`
+>请不要试图点击`卸载学生机房管理软件`
 >
 >启动 `powershell` `cmd` `msconfig`会遭到硬控。
 
 1. 下载release中的两个软件
 
 2. 运行tookits.exe
-<details markdown='1'><summary> *MORE* </summary>
+<details markdown='1'><summary>      More </summary>
 
 保持toolkits.exe在桌面的最左上角
 
@@ -29,18 +29,18 @@ toolkits使用Alt+B隐藏
 </details>
 
 3. 点击toolkits.exe中的`解除鼠标限制`与`解除键盘限制`。
-<details markdown='1'><summary> *MORE* </summary>
+<details markdown='1'><summary>      More </summary>
 此时电脑卡顿为正常现象
 </details>
 
 4. 点击toolkits.exe中的`解除网络限制`
-<details markdown='1'><summary> *MORE* </summary>
+<details markdown='1'><summary>      More </summary>
 若成功执行，此时学生机房会强制全屏并提示`jiyu的两个重要进程不存在`
 
 </details>
 
 5. 点击toolkits.exe中的`杀掉学生机房管理软件`
-<details markdown='1'><summary> *MORE* </summary>
+<details markdown='1'><summary> More </summary>
 
 若成功执行，此时的强制全屏将会消失。
 
@@ -48,7 +48,7 @@ toolkits使用Alt+B隐藏
 </details>
 
 6. 运行NoTopDomain
-<details markdown='1'><summary> *MORE* </summary>
+<details markdown='1'><summary> More </summary>
 可使用Alt+m进行隐藏
 
 </details>
