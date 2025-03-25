@@ -16,7 +16,7 @@
 1. 下载release中的两个软件
 
 2. 运行tookits.exe
-<details markdown='1'><summary>      More </summary>
+<details markdown='1'><summary>      解锁键盘&鼠标 </summary>
 
 保持toolkits.exe在桌面的最左上角
 
@@ -29,7 +29,7 @@ toolkits使用Alt+B隐藏
 </details>
 
 3. 点击toolkits.exe中的`解除鼠标限制`与`解除键盘限制`。
-<details markdown='1'><summary>      解锁键盘&鼠标 </summary>
+<details markdown='1'><summary>      解除网络控制 </summary>
 此时电脑卡顿为正常现象
 </details>
 
