@@ -34,7 +34,7 @@ toolkits使用Alt+B隐藏
 </details>
 
 4. 点击toolkits.exe中的`解除网络限制`
-<details markdown='1'><summary>      解除网络控制 </summary>
+<details markdown='1'><summary>      杀死学生机房管理软件 </summary>
 若成功执行，此时学生机房会强制全屏并提示`jiyu的两个重要进程不存在`
 
 </details>
