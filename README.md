@@ -29,12 +29,12 @@ toolkits使用Alt+B隐藏
 </details>
 
 3. 点击toolkits.exe中的`解除鼠标限制`与`解除键盘限制`。
-<details markdown='1'><summary>      More </summary>
+<details markdown='1'><summary>      解锁键盘&鼠标 </summary>
 此时电脑卡顿为正常现象
 </details>
 
 4. 点击toolkits.exe中的`解除网络限制`
-<details markdown='1'><summary>      More </summary>
+<details markdown='1'><summary>      解除网络控制 </summary>
 若成功执行，此时学生机房会强制全屏并提示`jiyu的两个重要进程不存在`
 
 </details>
