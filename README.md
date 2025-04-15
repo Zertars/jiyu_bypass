@@ -1,3 +1,4 @@
+
 # jiyu_bypass
 >提供`jiyu（jiyu网络控制）学生机房管理软件`的绕过方式
 
@@ -13,6 +14,7 @@
 >
 >启动 `powershell` `cmd` `msconfig`会遭到硬控。
 
+![660B3F7BA61A5A173AB5EA82E22151BF](https://github.com/user-attachments/assets/382d356e-4198-4bd9-8c4b-33e9ff07fbac)
 1. 下载release中的两个软件
 
 2. 运行tookits.exe
